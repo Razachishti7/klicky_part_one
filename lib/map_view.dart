@@ -229,7 +229,7 @@ class _MyMapScreenState extends State<MyMapScreen> {
         ),
         floatingActionButton: FloatingActionButton.small(
           onPressed: () {
-            Get.to(MyApp());
+            Get.back();
           },
           backgroundColor: Colors.white,
           child: Icon(
