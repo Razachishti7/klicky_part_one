@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+Just Clone Run
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
